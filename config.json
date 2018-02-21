@@ -2,11 +2,20 @@
     "handlers": [
         "test",
         "cowsay",
-        "totoro",
-        "meme",
         "anime",
-        "roll",
+        "catbomb",
+        "8ball",
+        "hug",
         "karma",
-        "8ball"
+        "meme",
+        "eliza",
+        "roll",
+        "oksana",
+        "eliza",
+        "compliment",
+        "slap",
+        "totoro"
+    ],
+    "disabled": [
     ]
 }
